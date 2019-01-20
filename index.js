@@ -39,3 +39,4 @@ function normalize(n) {
 module.exports = {
   effectiveDamage: effectiveDamage
 };
+
